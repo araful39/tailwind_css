@@ -1,0 +1,18 @@
+{
+"todos":[
+    {"id":"abc","title":"Todo 1","isCompleted":false},
+    {"id":"fyz","title":"Todo 2","isCompleted":false},
+    {"id":"xyz","title":"Todo 3","isCompleted":false}
+],
+"profile":{
+    
+  "name": "Jane Doe",
+  "email": "jane.doe@example.com",
+  "phone": "+1-555-123-4567",
+  "avatar": "https://example.com/images/jane-doe.jpg",
+  "position": "Software Engineer",
+  "company": "Tech Innovators Inc."
+
+
+}
+}
